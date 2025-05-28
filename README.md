@@ -126,12 +126,6 @@ Authorization: Bearer {access_token}
 ```
 
 ---
-
-## 🔎 Observações
-- JWT curto e seguro (configurado no Supabase)
-- Tokens devem ser armazenados de forma segura no frontend (HttpOnly opcional)
-- Possível implementar rota /logout com invalidade do refresh token (manual)
-
 ---
 
 ## 📖 Referências
